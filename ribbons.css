@@ -1,11 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Cabin+Condensed:500&text=Fork%20me%20on%20GitHub);
 
-body{
-  overflow-x: hidden;
-}
-
 .ribbon{
-  position: absolute; 
+  position: fixed; 
   top: 42px;
   width: 200px;
   padding: 1px 0;
